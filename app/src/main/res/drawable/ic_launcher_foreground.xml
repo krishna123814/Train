@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- patri -->
+    <path android:fillColor="#CFD8DC" android:pathData="M42,84 L24,106 L31,106 L46,84z" />
+    <path android:fillColor="#CFD8DC" android:pathData="M66,84 L84,106 L77,106 L62,84z" />
+    <path android:fillColor="#8D6E63" android:pathData="M33,92 H75 V95 H33z" />
+    <path android:fillColor="#8D6E63" android:pathData="M28,100 H80 V103 H28z" />
+    <!-- engine ka saamne ka hissa -->
+    <path android:fillColor="#FFFFFF" android:pathData="M33,82 L33,46 Q33,25 54,25 Q75,25 75,46 L75,82z" />
+    <path android:fillColor="#ECEFF1" android:pathData="M33,66 H75 V82 H33z" />
+    <!-- windshield -->
+    <path android:fillColor="#263238" android:pathData="M38,45 Q38,33 54,33 Q70,33 70,45 L70,58 L38,58z" />
+    <path android:fillColor="#4FC3F7" android:fillAlpha="0.35" android:pathData="M41,44 Q42,37 54,36 L47,36 Q41,38 41,44z" />
+    <!-- laal patti -->
+    <path android:fillColor="#E53935" android:pathData="M33,62 H75 V67 H33z" />
+    <!-- lights -->
+    <path android:fillColor="#FFD54F" android:pathData="M42,75 m-3.4,0 a3.4,3.4 0 1,0 6.8,0 a3.4,3.4 0 1,0 -6.8,0" />
+    <path android:fillColor="#FFD54F" android:pathData="M66,75 m-3.4,0 a3.4,3.4 0 1,0 6.8,0 a3.4,3.4 0 1,0 -6.8,0" />
+    <path android:fillColor="#FFD54F" android:pathData="M54,29.5 m-2.4,0 a2.4,2.4 0 1,0 4.8,0 a2.4,2.4 0 1,0 -4.8,0" />
+    <!-- bumper -->
+    <path android:fillColor="#455A64" android:pathData="M31,82 H77 V86.5 H31z" />
+    <path android:fillColor="#37474F" android:pathData="M49,76 H59 V82 H49z" />
+</vector>
